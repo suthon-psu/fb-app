@@ -1,0 +1,15 @@
+>> npm install -g @angular/cli
+>> d:
+>> cd suthon
+>> ng new fb-app
+** ตอบ N เรื่อง  Angular Routing
+**ตอบ CSS เรื่อง  Style
+
+>> cd fb-app
+>> git config user.name Suthon
+>> git config user.email suthon.s@psu.ac.th
+
+>> npm install firebase @angular/fire --save
+
+https://github.com/suthon-psu/fb-app
+===> src/environments/environment.ts
